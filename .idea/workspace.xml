@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14a83c2d-82eb-47b7-b328-e5357d6a3fb6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-design-patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/TestesImpostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/TestesImpostos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/orcamento/Orcamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/orcamento/Orcamento.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,6 +46,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -59,10 +55,25 @@
       <recent name="br.com.alura.loja.imposto" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.alura.loja.descontos" />
+      <recent name="br.com.alura.loja" />
       <recent name="br.com.alura.loja.imposto" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestesDescontos">
+    <configuration name="TestesDescontos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.loja.TestesDescontos" />
+      <module name="java-design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.loja.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestesImpostos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.loja.TestesImpostos" />
       <module name="java-design-patterns" />
@@ -78,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestesDescontos" />
         <item itemvalue="Application.TestesImpostos" />
       </list>
     </recent_temporary>
@@ -90,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676506857843</updated>
-      <workItem from="1676506858315" duration="1126000" />
+      <workItem from="1676506858315" duration="3472000" />
     </task>
     <servers />
   </component>
