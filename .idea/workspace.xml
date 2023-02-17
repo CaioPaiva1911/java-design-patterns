@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="14a83c2d-82eb-47b7-b328-e5357d6a3fb6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/descontos/CalculadoraDeDescontos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/descontos/CalculadoraDeDescontos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/descontos/Desconto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/descontos/Desconto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/descontos/DescontoParaOrcamentoComValorMaiorQueQuinhentos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/descontos/DescontoParaOrcamentoComValorMaiorQueQuinhentos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/descontos/DescontoParaOrcamentoMaisDeCincoItens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/descontos/DescontoParaOrcamentoMaisDeCincoItens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/descontos/SemDesconto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/descontos/SemDesconto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/orcamento/Orcamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/orcamento/Orcamento.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +54,7 @@
       <recent name="br.com.alura.loja.imposto" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.alura.loja.orcamento.situacao" />
       <recent name="br.com.alura.loja.descontos" />
       <recent name="br.com.alura.loja" />
       <recent name="br.com.alura.loja.imposto" />
@@ -106,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676506857843</updated>
       <workItem from="1676506858315" duration="3717000" />
-      <workItem from="1676589366805" duration="1193000" />
+      <workItem from="1676589366805" duration="3727000" />
     </task>
     <servers />
   </component>
