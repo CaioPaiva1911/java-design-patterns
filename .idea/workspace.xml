@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14a83c2d-82eb-47b7-b328-e5357d6a3fb6" name="Changes" comment="">
+    <list default="true" id="14a83c2d-82eb-47b7-b328-e5357d6a3fb6" name="Changes" comment="design patterns - Command">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/loja/orcamento/Orcamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/loja/orcamento/Orcamento.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,11 +102,24 @@
       <option name="presentableId" value="Default" />
       <updated>1676506857843</updated>
       <workItem from="1676506858315" duration="3717000" />
-      <workItem from="1676589366805" duration="3727000" />
+      <workItem from="1676589366805" duration="6024000" />
+      <workItem from="1677197329609" duration="1706000" />
     </task>
+    <task id="LOCAL-00001" summary="design patterns - Command">
+      <created>1677199002068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677199002068</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="design patterns - Command" />
+    <option name="LAST_COMMIT_MESSAGE" value="design patterns - Command" />
   </component>
 </project>
